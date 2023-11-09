@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=28&pause=1000&color=C0CAF5&vCenter=true&random=false&width=435&lines=hi%2C+I'm+Simone)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=28&pause=1000&color=C0CAF5&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Simone)](https://git.io/typing-svg)
 
 **About me:** I'm a physics student with major interests in _electronics_ and _computer science_. I love exploring new things. I also love _motorsports_ since I was little.
  
