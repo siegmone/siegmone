@@ -7,7 +7,7 @@
 - Visit my [LinkedIn profile](https://www.linkedin.com/in/simonevortice)
 
 ## Known Tools
-[![](https://skillicons.dev/icons?i=git,python,rust,bash,neovim,vim,vscode,linux,arduino,raspberrypi)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,python,c,cpp,rust,bash,neovim,vim,vscode,linux,arduino,raspberrypi,matlab)](https://skillicons.dev)
 
 
 <!---
